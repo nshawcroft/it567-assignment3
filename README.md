@@ -9,3 +9,10 @@ pythonPortScan.py [ip addresses] [ports] [scan type]
 -[ip addresses]: a list of ip addresses separated by commas. Can be in line or the name of a .txt file containing the list
 -[ports]: a list of ports separated by commas
 -[scan type]. Which type of scan to do. Can be tcp, udp, or icmp
+
+Requirements met for additional points:
+Reading a text file of host IP’s AND reading a range from the command line 
+Allow multiple ports to be specified
+ICMP, TCP, and UDP scans
+Traceroute
+HTML report
