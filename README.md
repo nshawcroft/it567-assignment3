@@ -11,8 +11,8 @@ pythonPortScan.py [ip addresses] [ports] [scan type]
 -[scan type]. Which type of scan to do. Can be tcp, udp, or icmp
 
 Requirements met for additional points:
-Reading a text file of host IP’s AND reading a range from the command line 
-Allow multiple ports to be specified
-ICMP, TCP, and UDP scans
-Traceroute
-HTML report
+Reading a text file of host IP’s AND reading a range from the command line, 
+Allow multiple ports to be specified,
+ICMP, TCP, and UDP scans,
+Traceroute,
+HTML report,
